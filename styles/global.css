@@ -40,3 +40,7 @@
     --body-sm: 400 0,875rem var(--font-family-opensans);
     --body-xs: 400 0,75rem var(--font-family-opensans);
 }
+
+body{
+    overflow: hidden;
+}
