@@ -34,6 +34,13 @@ aside{
 
 main{
     overflow-y: auto;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 0.75rem;
+    margin: 1rem;
+    padding: 5rem;
+    background-color: var(--shape-body);
 }
 
 

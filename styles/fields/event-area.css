@@ -1,0 +1,14 @@
+.event-area{
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    color: var(--text-heading);
+    font: var(--heading-sm);
+    gap: 0.75rem;
+    margin-bottom: 2.25rem;
+}
+
+.event-title{
+    color: var(--text-heading);
+    font: var(--heading-sm);
+}
